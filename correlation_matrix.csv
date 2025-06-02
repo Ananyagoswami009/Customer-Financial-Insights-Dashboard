@@ -1,0 +1,37 @@
+Feature A,Feature B,Correlation
+Estimated Income,Superannuation Savings,0.37
+Estimated Income,Credit Card Balance,0.3
+Estimated Income,Bank Loans,0.33
+Estimated Income,Bank Deposits,0.26
+Estimated Income,Checking Accounts,0.29
+Estimated Income,Saving Accounts,0.26
+Estimated Income,Foreign Currency Account,0.31
+Estimated Income,Business Lending,0.33
+Superannuation Savings,Credit Card Balance,0.23
+Superannuation Savings,Bank Loans,0.24
+Superannuation Savings,Bank Deposits,0.17
+Superannuation Savings,Checking Accounts,0.2
+Superannuation Savings,Saving Accounts,0.18
+Superannuation Savings,Foreign Currency Account,0.23
+Superannuation Savings,Business Lending,0.26
+Credit Card Balance,Bank Loans,0.37
+Credit Card Balance,Bank Deposits,0.38
+Credit Card Balance,Checking Accounts,0.3
+Credit Card Balance,Saving Accounts,0.28
+Credit Card Balance,Foreign Currency Account,0.36
+Credit Card Balance,Business Lending,0.35
+Bank Loans,Bank Deposits,0.37
+Bank Loans,Checking Accounts,0.29
+Bank Loans,Saving Accounts,0.27
+Bank Loans,Foreign Currency Account,0.36
+Bank Loans,Business Lending,0.42
+Bank Deposits,Checking Accounts,0.84
+Bank Deposits,Saving Accounts,0.75
+Bank Deposits,Foreign Currency Account,0.41
+Bank Deposits,Business Lending,0.44
+Checking Accounts,Saving Accounts,0.46
+Checking Accounts,Foreign Currency Account,0.31
+Checking Accounts,Business Lending,0.36
+Saving Accounts,Foreign Currency Account,0.31
+Saving Accounts,Business Lending,0.31
+Foreign Currency Account,Business Lending,0.37
